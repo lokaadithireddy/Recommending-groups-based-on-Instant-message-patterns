@@ -1,1 +1,1 @@
-# Recommending-groups-based-on-Instant-message-patterns
+# Recommending groups based on Instant message patterns
